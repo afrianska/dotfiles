@@ -15,3 +15,7 @@
 
 Hi Everyone,
 This is just my personal dotfiles configuration for my dekstop.
+
+# List Installed
+
+
