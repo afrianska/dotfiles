@@ -246,7 +246,7 @@ myLogHook = return ()
 --
 -- By default, do nothing.
 myStartupHook = do
-	spawn     "zsh ~/.xmonad/startup.sh"
+	spawn "zsh ~/.xmonad/startup.sh"
 
 ------------------------------------------------------------------------
 -- Now run xmonad with all the defaults we set up.

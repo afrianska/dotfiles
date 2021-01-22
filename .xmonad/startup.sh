@@ -12,7 +12,7 @@ fi
 
 # xbacklight
 if [ -z "$(pgrep xbacklight)" ] ; then
-    xbacklight -set 80% &
+    xbacklight -set 70% &
 fi
 
 
